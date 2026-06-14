@@ -1,4 +1,4 @@
-# CourseName - Galgotias University – Batch Number4 – Task no4 – Techniques of Empathy Building
+# Techniques of Empathy Building
 
 ## User Persona: SpiderVision Intelligence – Social Media Threat Intelligence Platform
 
