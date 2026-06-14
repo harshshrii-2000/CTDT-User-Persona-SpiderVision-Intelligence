@@ -2,7 +2,7 @@
 
 ## User Persona: SpiderVision Intelligence – Social Media Threat Intelligence Platform
 
-**Persona Name:** Anurag Kumar
+**Persona Name:** Harshit Shrivastav
 
 ### Demographic Information
 - **Age:** 20
